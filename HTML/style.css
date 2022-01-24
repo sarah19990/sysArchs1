@@ -1,4 +1,12 @@
-body{background-color:purple, body-border, hr-colour;}p{color:
+body{background-color:purple;}p{color:
+
+body {
+  color: blue;
+}
+
+<hr style="height:2px;border-width:0;color:gray;background-color:gray">
+ 
+div {border-color: coral;}
 
 green;font-family:Arial;}h1{color:
 
